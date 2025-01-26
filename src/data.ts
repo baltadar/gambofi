@@ -17,6 +17,14 @@ export const hotCoins: CryptoCoin[] = [
     priceChange24h: '+8.2%',
     trend: 'up'
   },
+  {
+    id: '3',
+    name: 'SUI',
+    symbol: 'SUI',
+    reason: 'Sui delivers the benefits of Web3 with the ease of Web2',
+    priceChange24h: '-10%',
+    trend: 'down'
+  },
   // Adding more example coins
 ];
 
