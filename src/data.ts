@@ -30,19 +30,6 @@ export const hotCoins: CryptoCoin[] = [
 
 export const airdrops: Airdrop[] = [
   {
-    id: '1',
-    projectName: 'LayerZero',
-    description: 'Cross-chain interoperability protocol with anticipated token launch',
-    endDate: '2024-04-30',
-    requirements: [
-      'Bridge assets using LayerZero',
-      'Minimum 5 cross-chain transactions',
-      'Hold minimum 0.1 ETH in wallet'
-    ],
-    estimatedValue: '$500-2000',
-    link: 'https://layerzero.network'
-  },
-  {
   id: '1',
   projectName: 'Humanity Protocol',
   description: 'Decentralized protocol focused on identification.',
@@ -64,7 +51,7 @@ export const airdrops: Airdrop[] = [
     'Earn rewards by contributing to the decentralized data network'
   ],
   estimatedValue: 'TBA',
-  link: 'https://bit.ly/teneo-community-node'
+  link: 'https://teneo.pro/'
 },
 {
   id: '3',
@@ -72,10 +59,10 @@ export const airdrops: Airdrop[] = [
   description: 'Decentralized internet service provider',
   endDate: 'TBA',
   requirements: [
-    'Sign up using the provided referral code'
+    'Sign up using this referral code: iygco4un'
   ],
   estimatedValue: 'TBA',
-  link: 'iygco4un'
+  link: 'https://www.dawninternet.com/'
 },
 {
   id: '4',
@@ -107,10 +94,10 @@ export const airdrops: Airdrop[] = [
   description: 'OpenLoop is a Depin project focused on democratizing data access.',
   endDate: 'TBA',
   requirements: [
-    'Use the referral code to join the OpenLoop platform'
+    'Use this referral code- olfe0cdf03 - to join the OpenLoop platform'
   ],
   estimatedValue: 'TBA',
-  link: 'olfe0cdf03'
+  link: 'https://openloop.so/'
 },
 {
   id: '7',
