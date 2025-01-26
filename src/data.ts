@@ -39,7 +39,7 @@ export const airdrops: Airdrop[] = [
     'Complete the necessary tasks in the testnet including bridging into the chain'
   ],
   estimatedValue: 'TBA',
-  link: 'testnet.humanity.org/login?ref=rondavel'
+  link: 'https://testnet.humanity.org/onboarding'
 },
 {
   id: '2',
