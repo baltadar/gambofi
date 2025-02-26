@@ -1,6 +1,6 @@
 import { CryptoCoin, Airdrop } from './types';
 
-export const hotCoins: CryptoCoin[] = [
+export const hotCyproCoins: CryptoCoin[] = [
   {
     id: '1',
     name: 'Jupiter',
