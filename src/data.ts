@@ -51,7 +51,7 @@ export const airdrops: Airdrop[] = [
     'Earn rewards by contributing to the decentralized data network'
   ],
   estimatedValue: 'TBA',
-  link: 'https://teneo.pro/'
+  link: 'https://bit.ly/teneo-community-node'
 },
 {
   id: '3',
